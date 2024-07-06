@@ -1,37 +1,37 @@
-# Front-end Style Guide
+# Guia de estilo de front-end
 
-## Layout
+##Layout
 
-The designs were created to the following widths:
+Os designs foram criados nas seguintes larguras:
 
-- Mobile: 375px
-- Desktop: 1440px
+- Celular: 375px
+Área de trabalho: 1440px
 
-> 💡 These are just the design sizes. Ensure content is responsive and meets WCAG requirements by testing the full range of screen sizes from 320px to large screens.
+> 💡 Esses são apenas os tamanhos do design. Garanta que o conteúdo seja responsivo e atenda aos requisitos WCAG, testando toda a gama de tamanhos de tela, de 320px a telas grandes.
 
-## Colors
+## Cores
 
-### Primary
+### Primário
 
-- Soft blue: hsl(215, 51%, 70%)
-- Cyan: hsl(178, 100%, 50%)
+- Azul suave: hsl(215, 51%, 70%)
+- Ciano: hsl(178, 100%, 50%)
 
-### Neutral
+### Neutro
 
-- Very dark blue (main BG): hsl(217, 54%, 11%)
-- Very dark blue (card BG): hsl(216, 50%, 16%)
-- Very dark blue (line): hsl(215, 32%, 27%)
-- White: hsl(0, 0%, 100%)
+- Azul muito escuro (GS principal): hsl(217, 54%, 11%)
+- Azul muito escuro (cartão BG): hsl(216, 50%, 16%)
+- Azul muito escuro (linha): hsl(215, 32%, 27%)
+- Branco: hsl(0, 0%, 100%)
 
-## Typography
+## Tipografia
 
-### Body Copy
+### Cópia do corpo
 
-- Font size (paragraph): 18px
+- Tamanho da fonte (parágrafo): 18px
 
-### Font
+### Fonte
 
-- Family: [Outfit](https://fonts.google.com/specimen/Outfit)
-- Weights: 300, 400, 600
+- Família: [Roupa](https://fonts.google.com/specimen/Outfit)
+- Pesos: 300, 400, 600
 
-> 💎 [Upgrade to Pro](https://www.frontendmentor.io/pro?ref=style-guide) for design file access to see all design details and get hands-on experience using a professional workflow with tools like Figma.
+> 💎 [Atualize para Pro](https://www.frontendmentor.io/pro?ref=style-guide) para acesso ao arquivo de design para ver todos os detalhes do design e obter experiência prática usando um fluxo de trabalho profissional com ferramentas como o Figma.
